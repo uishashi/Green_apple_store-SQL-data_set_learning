@@ -15,7 +15,7 @@ This repository contains:
 Three clean, structured CSV files (Employees, Customers, Orders)
 SQL practice questions based on real-world scenarios
 Each question helps learners understand one SQL concept at a time
-Suitable for practicing on MySQL, PostgreSQL, SQL Server, SQLite, BigQuery, etc.
+Suitable for practicing on MySQL, SQL Server, SQLite, etc.
 
 🧠 What You Will Learn
 
